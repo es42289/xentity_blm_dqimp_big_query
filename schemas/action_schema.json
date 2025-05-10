@@ -1,0 +1,78 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING"
+    },
+    {
+        "name": "OWNERID",
+        "type": "STRING"
+    },
+    {
+        "name": "ISDELETED",
+        "type": "STRING"
+    },
+    {
+        "name": "NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "SYSTEMMODSTAMP",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTVIEWEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTREFERENCEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_TYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_PRODUCT",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_GROUP",
+        "type": "STRING"
+    },
+    {
+        "name": "DESCRIPTION",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_SYSTEM_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    }
+]

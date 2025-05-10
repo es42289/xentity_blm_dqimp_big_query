@@ -1,0 +1,202 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING"
+    },
+    {
+        "name": "ISDELETED",
+        "type": "STRING"
+    },
+    {
+        "name": "NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "RECORDTYPEID",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "SYSTEMMODSTAMP",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTACTIVITYDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTVIEWEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTREFERENCEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_CASE",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_PRODUCTID",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_BATCH_REQUEST_ASSMT_YR",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_BATCH_REQUEST_RECORD_TYP",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_BATCH_REQUEST",
+        "type": "STRING"
+    },
+    {
+        "name": "DATE_OF_NOTICE_DECISION",
+        "type": "STRING"
+    },
+    {
+        "name": "DEFECT_REASON",
+        "type": "STRING"
+    },
+    {
+        "name": "DEFECT_TYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_SYSTEM_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "PAYMENT_AMOUNT",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_REMARKS",
+        "type": "STRING"
+    },
+    {
+        "name": "DOCUMENT_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "RECEIPT_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "DATE_KEY",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "CLSD_VOIDED_CLAIMS_CUTOFF_DTYR",
+        "type": "STRING"
+    },
+    {
+        "name": "CURABLE_DEFECT_DEADLINE_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "NOTICE_RECEIVED_REMINDER_DT",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_CASE_PRODUCT",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_PRODUCT",
+        "type": "STRING"
+    },
+    {
+        "name": "ASSESSMENT_YEAR",
+        "type": "STRING"
+    },
+    {
+        "name": "CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "DATE_FILED",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_ACTION_STATUS_CD",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_DECISION_DT",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_INFORMATION",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_BATCH_REQUEST_SEL_TYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "EXPIRATION_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "RENTAL_RATE",
+        "type": "STRING"
+    },
+    {
+        "name": "PUBLICATION_TYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "MINERAL_SEGREGATION",
+        "type": "STRING"
+    },
+    {
+        "name": "SURFACE_SEGREGATION",
+        "type": "STRING"
+    },
+    {
+        "name": "ACQUISITION_FUND",
+        "type": "STRING"
+    }
+]

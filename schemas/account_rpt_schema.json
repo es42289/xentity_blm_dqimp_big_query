@@ -1,0 +1,214 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING"
+    },
+    {
+        "name": "ISDELETED",
+        "type": "STRING"
+    },
+    {
+        "name": "MASTERRECORDID",
+        "type": "STRING"
+    },
+    {
+        "name": "NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTNAME",
+        "type": "STRING"
+    },
+    {
+        "name": "FIRSTNAME",
+        "type": "STRING"
+    },
+    {
+        "name": "SALUTATION",
+        "type": "STRING"
+    },
+    {
+        "name": "MIDDLENAME",
+        "type": "STRING"
+    },
+    {
+        "name": "SUFFIX",
+        "type": "STRING"
+    },
+    {
+        "name": "TYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "RECORDTYPEID",
+        "type": "STRING"
+    },
+    {
+        "name": "BILLINGSTREET",
+        "type": "STRING"
+    },
+    {
+        "name": "BILLINGCITY",
+        "type": "STRING"
+    },
+    {
+        "name": "BILLINGSTATE",
+        "type": "STRING"
+    },
+    {
+        "name": "BILLINGPOSTALCODE",
+        "type": "STRING"
+    },
+    {
+        "name": "BILLINGCOUNTRY",
+        "type": "STRING"
+    },
+    {
+        "name": "SHIPPINGSTREET",
+        "type": "STRING"
+    },
+    {
+        "name": "SHIPPINGCITY",
+        "type": "STRING"
+    },
+    {
+        "name": "SHIPPINGSTATE",
+        "type": "STRING"
+    },
+    {
+        "name": "SHIPPINGPOSTALCODE",
+        "type": "STRING"
+    },
+    {
+        "name": "SHIPPINGCOUNTRY",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "SYSTEMMODSTAMP",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTACTIVITYDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTVIEWEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTREFERENCEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "ISCUSTOMERPORTAL",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONCONTACTID",
+        "type": "STRING"
+    },
+    {
+        "name": "ISPERSONACCOUNT",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONMAILINGSTREET",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONMAILINGCITY",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONMAILINGSTATE",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONMAILINGPOSTALCODE",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONMAILINGCOUNTRY",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONOTHERSTREET",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONOTHERCITY",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONOTHERSTATE",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONOTHERPOSTALCODE",
+        "type": "STRING"
+    },
+    {
+        "name": "PERSONOTHERCOUNTRY",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_ID__C",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_SYSTEM_CODE__C",
+        "type": "STRING"
+    },
+    {
+        "name": "NUMBER_OF_ACTIVE_CLAIMS__C",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_ID__PC",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_SYSTEM_CODE__PC",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    },
+    {
+        "name": "CUSTOMER_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "CUSTOMER_NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "ACCOUNT_DISPOSITION",
+        "type": "STRING"
+    },
+    {
+        "name": "COST_CENTER_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "OFFICE_TYPE",
+        "type": "STRING"
+    }
+]

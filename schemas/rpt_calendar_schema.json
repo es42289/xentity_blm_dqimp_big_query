@@ -1,0 +1,66 @@
+[
+    {
+        "name": "DATE_KEY",
+        "type": "STRING"
+    },
+    {
+        "name": "CALENDAR_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "DAY_OF_WEEK",
+        "type": "STRING"
+    },
+    {
+        "name": "DAY_OF_MONTH",
+        "type": "STRING"
+    },
+    {
+        "name": "DAY_OF_YEAR",
+        "type": "STRING"
+    },
+    {
+        "name": "DAY_OF_CALENDAR",
+        "type": "STRING"
+    },
+    {
+        "name": "MONTH_NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "WEEK_OF_MONTH",
+        "type": "STRING"
+    },
+    {
+        "name": "WEEK_OF_YEAR",
+        "type": "STRING"
+    },
+    {
+        "name": "MONTH_OF_QUARTER",
+        "type": "STRING"
+    },
+    {
+        "name": "MONTH_OF_YEAR",
+        "type": "STRING"
+    },
+    {
+        "name": "QUARTER_OF_YEAR",
+        "type": "STRING"
+    },
+    {
+        "name": "YEAR_OF_CALENDAR",
+        "type": "STRING"
+    },
+    {
+        "name": "QUARTER_OF_FISCAL_YEAR",
+        "type": "STRING"
+    },
+    {
+        "name": "MONTH_OF_FISCAL_QUARTER",
+        "type": "STRING"
+    },
+    {
+        "name": "YEAR_OF_FISCAL_CALENDAR",
+        "type": "STRING"
+    }
+]

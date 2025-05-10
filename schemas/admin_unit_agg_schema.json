@@ -1,0 +1,42 @@
+[
+    {
+        "name": "CASE_LAND",
+        "type": "STRING"
+    },
+    {
+        "name": "COUNTY_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "COUNTY",
+        "type": "STRING"
+    },
+    {
+        "name": "DISTRICT_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "DISTRICT",
+        "type": "STRING"
+    },
+    {
+        "name": "FIELDOFFICE_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "FIELDOFFICE",
+        "type": "STRING"
+    },
+    {
+        "name": "SMA_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "SMA",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    }
+]

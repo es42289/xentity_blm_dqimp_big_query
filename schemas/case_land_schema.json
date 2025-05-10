@@ -1,0 +1,162 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING"
+    },
+    {
+        "name": "ISDELETED",
+        "type": "STRING"
+    },
+    {
+        "name": "NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "SYSTEMMODSTAMP",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTACTIVITYDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTVIEWEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTREFERENCEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_CASE",
+        "type": "STRING"
+    },
+    {
+        "name": "ACRES",
+        "type": "STRING"
+    },
+    {
+        "name": "ADMIN_STATE_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "ALIQUOT_PART_DESCRIPTION",
+        "type": "STRING"
+    },
+    {
+        "name": "ALIQUOT_PART",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_DISTRICT_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "GEOGRAPHIC_STATE_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_SYSTEM_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGAL_LAND_DESCRIPTION",
+        "type": "STRING"
+    },
+    {
+        "name": "MERIDIAN_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "MERIDIAN_QUADRANT_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "METES_AND_BOUNDS",
+        "type": "STRING"
+    },
+    {
+        "name": "NLSDB_LAND_OID",
+        "type": "STRING"
+    },
+    {
+        "name": "RANGE_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "SECTION_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "SURVEY_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "SURVEY_TYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "TOWNSHIP_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    },
+    {
+        "name": "MTR",
+        "type": "STRING"
+    },
+    {
+        "name": "MTRS",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_ID_WO_ALIQUOT",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_EFFECTIVE_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "ALASKA_LAND_SELECTION",
+        "type": "STRING"
+    },
+    {
+        "name": "ALIS_LEGACY_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "",
+        "type": "STRING"
+    },
+    {
+        "name": "LAND_STATUS",
+        "type": "STRING"
+    },
+    {
+        "name": "PRIORITY",
+        "type": "STRING"
+    }
+]

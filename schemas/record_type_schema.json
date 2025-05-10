@@ -1,0 +1,62 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING"
+    },
+    {
+        "name": "NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "DEVELOPERNAME",
+        "type": "STRING"
+    },
+    {
+        "name": "NAMESPACEPREFIX",
+        "type": "STRING"
+    },
+    {
+        "name": "DESCRIPTION",
+        "type": "STRING"
+    },
+    {
+        "name": "BUSINESSPROCESSID",
+        "type": "STRING"
+    },
+    {
+        "name": "SOBJECTTYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "ISACTIVE",
+        "type": "STRING"
+    },
+    {
+        "name": "ISPERSONTYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "SYSTEMMODSTAMP",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    }
+]

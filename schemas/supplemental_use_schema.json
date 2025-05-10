@@ -1,0 +1,10 @@
+[
+    {
+        "name": "BLM_CASE",
+        "type": "STRING"
+    },
+    {
+        "name": "NEW_SUPPLEMENTAL_USE_PURPOSE",
+        "type": "STRING"
+    }
+]

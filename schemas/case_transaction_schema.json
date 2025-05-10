@@ -1,0 +1,90 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING"
+    },
+    {
+        "name": "OWNERID",
+        "type": "STRING"
+    },
+    {
+        "name": "ISDELETED",
+        "type": "STRING"
+    },
+    {
+        "name": "NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "SYSTEMMODSTAMP",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTVIEWEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTREFERENCEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "AGENCY_TRACKING_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "AMOUNT",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_BATCH_REQUEST",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_SYSTEM_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "TOKEN",
+        "type": "STRING"
+    },
+    {
+        "name": "RECEIPT_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    },
+    {
+        "name": "PAYGOV_TRACKING_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "TRANSACTION_STATUS",
+        "type": "STRING"
+    }
+]

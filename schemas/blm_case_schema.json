@@ -1,0 +1,482 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING"
+    },
+    {
+        "name": "OWNERID",
+        "type": "STRING"
+    },
+    {
+        "name": "ISDELETED",
+        "type": "STRING"
+    },
+    {
+        "name": "NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "RECORDTYPEID",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "SYSTEMMODSTAMP",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTACTIVITYDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTVIEWEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTREFERENCEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "ACCOUNT",
+        "type": "STRING"
+    },
+    {
+        "name": "ACRES",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_ADMIN_STATE__C",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_PRODUCT",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_GROUP",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_NAME__C",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_STATUS",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_SUFFIX",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_TYPE__C",
+        "type": "STRING"
+    },
+    {
+        "name": "CLAIM_IN_A_LOT",
+        "type": "STRING"
+    },
+    {
+        "name": "DATE_FILED",
+        "type": "STRING"
+    },
+    {
+        "name": "DATE_OF_LOCATION",
+        "type": "STRING"
+    },
+    {
+        "name": "DISCOVERY_OF_VALUABLE_MINING",
+        "type": "STRING"
+    },
+    {
+        "name": "DISPOSITION_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "HEIGHT",
+        "type": "STRING"
+    },
+    {
+        "name": "INDEPENDENT_CASE",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_LEAD_FILE_NUMBER__C",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_SYSTEM_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "LNGTH",
+        "type": "STRING"
+    },
+    {
+        "name": "NLSDB_CASE_OID",
+        "type": "STRING"
+    },
+    {
+        "name": "NEXT_PAYMENT_DUE_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "PL_359",
+        "type": "STRING"
+    },
+    {
+        "name": "RADIUS",
+        "type": "STRING"
+    },
+    {
+        "name": "RELATED_CASE",
+        "type": "STRING"
+    },
+    {
+        "name": "SERIAL_NUMBER__C",
+        "type": "STRING"
+    },
+    {
+        "name": "WIDTH",
+        "type": "STRING"
+    },
+    {
+        "name": "REQUIRES_VOIDED_CLAIM_NOTIF",
+        "type": "STRING"
+    },
+    {
+        "name": "SRHA",
+        "type": "STRING"
+    },
+    {
+        "name": "DISP_ACT_CLSD_DT",
+        "type": "STRING"
+    },
+    {
+        "name": "CLSD_VOID_CLAIM_CUT_OFF_DT_YR",
+        "type": "STRING"
+    },
+    {
+        "name": "GENERAL_REMARKS_LEGACY",
+        "type": "STRING"
+    },
+    {
+        "name": "LEGACY_SERIAL_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "NOITL_SERIAL_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "SYNCHRONIZATION_STATUS",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_NAME_FORMULA",
+        "type": "STRING"
+    },
+    {
+        "name": "SERIAL_NUMBER_PART",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    },
+    {
+        "name": "CURRENT_MAINTENANCE_FEE_DUE",
+        "type": "STRING"
+    },
+    {
+        "name": "LEAD_FILE_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "COMMODITY",
+        "type": "STRING"
+    },
+    {
+        "name": "LEASE_ISSUED_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "ACTION_669_FLAG",
+        "type": "STRING"
+    },
+    {
+        "name": "EFFECTIVE_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "EXPIRATION_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "AGREEMENT_FED_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "AGREEMENT_FEE_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "AGREEMENT_INDIAN_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "AGREEMENT_NONFED_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "AGREEMENT_STATE_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "NFLSS_RENTAL_AMOUNT",
+        "type": "STRING"
+    },
+    {
+        "name": "PARTICIPATING_FED_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "PARTICIPATING_FEE_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "PARTICIPATING_INDIAN_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "PARTICIPATING_NONFED_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "PARTICIPATING_STATE_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "RENTAL_RATE",
+        "type": "STRING"
+    },
+    {
+        "name": "TOTAL_AMOUNT",
+        "type": "STRING"
+    },
+    {
+        "name": "APA_APPROVED",
+        "type": "STRING"
+    },
+    {
+        "name": "AUTHORIZATION_LENGTH",
+        "type": "STRING"
+    },
+    {
+        "name": "AUTHORIZATION",
+        "type": "STRING"
+    },
+    {
+        "name": "BILLABLE_ACRES",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_CATEGORY",
+        "type": "STRING"
+    },
+    {
+        "name": "DATE_RECEIVED",
+        "type": "STRING"
+    },
+    {
+        "name": "GENERATION_START_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "GENERATION_TYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "PRE_FLPMA",
+        "type": "STRING"
+    },
+    {
+        "name": "PROPOSED_ACRES",
+        "type": "STRING"
+    },
+    {
+        "name": "PROPOSED_LENGTH",
+        "type": "STRING"
+    },
+    {
+        "name": "PROPOSED_WIDTH",
+        "type": "STRING"
+    },
+    {
+        "name": "HOLDER_ACCOUNT",
+        "type": "STRING"
+    },
+    {
+        "name": "HOLDER_INTEREST_PERCENT",
+        "type": "STRING"
+    },
+    {
+        "name": "LENGTH_MILES",
+        "type": "STRING"
+    },
+    {
+        "name": "IS_EXPIRED",
+        "type": "STRING"
+    },
+    {
+        "name": "DIAMETER_OF_PIPE_INCHES",
+        "type": "STRING"
+    },
+    {
+        "name": "FREQUENCY_OF_SIGNAL",
+        "type": "STRING"
+    },
+    {
+        "name": "GEOGRAPHIC_NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "POWERLINE_VOLTAGE_KV",
+        "type": "STRING"
+    },
+    {
+        "name": "PROJECT_NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "STATUS_REASON",
+        "type": "STRING"
+    },
+    {
+        "name": "COMM_SITE_NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "DATE_REPORTED",
+        "type": "STRING"
+    },
+    {
+        "name": "DOCUMENT_CATEGORY",
+        "type": "STRING"
+    },
+    {
+        "name": "DOCUMENT_NUMBER",
+        "type": "STRING"
+    },
+    {
+        "name": "FEDERAL_ACRES_INPUT",
+        "type": "STRING"
+    },
+    {
+        "name": "FEE_ACRES_INPUT",
+        "type": "STRING"
+    },
+    {
+        "name": "US_RIGHTS_EXCEPTION",
+        "type": "STRING"
+    },
+    {
+        "name": "US_RIGHTS",
+        "type": "STRING"
+    },
+    {
+        "name": "INDIAN_ACRES_INPUT",
+        "type": "STRING"
+    },
+    {
+        "name": "NON_FEDERAL_ACRES_INPUT",
+        "type": "STRING"
+    },
+    {
+        "name": "STATE_ACRES_INPUT",
+        "type": "STRING"
+    },
+    {
+        "name": "FEDERAL_INPUT_PERCENTAGE",
+        "type": "STRING"
+    },
+    {
+        "name": "FEE_INPUT_PERCENTAGE",
+        "type": "STRING"
+    },
+    {
+        "name": "INDIAN_INPUT_PERCENTAGE",
+        "type": "STRING"
+    },
+    {
+        "name": "NON_FEDERAL_INPUT_PERCENTAGE",
+        "type": "STRING"
+    },
+    {
+        "name": "STATE_INPUT_PERCENTAGE",
+        "type": "STRING"
+    },
+    {
+        "name": "SYSTEM_ID",
+        "type": "STRING"
+    },
+    {
+        "name": "PRODUCTION_STATUS",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_OFFICE",
+        "type": "STRING"
+    },
+    {
+        "name": "BLM_OFFICE_DESCR",
+        "type": "STRING"
+    },
+    {
+        "name": "COST_CENTER_CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "FORMATION_NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "SALE_DATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LAST_CASE_DISPOSITION_ACTION",
+        "type": "STRING"
+    },
+    {
+        "name": "AGREEMENT_ACRES",
+        "type": "STRING"
+    },
+    {
+        "name": "PARTICIPATING_AREA_ACRES",
+        "type": "STRING"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "CASE_GROUP_CD",
+        "type": "STRING"
+    },
+    {
+        "name": "DESCRIPTION",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "name": "CASE_LAND",
+        "type": "STRING"
+    },
+    {
+        "name": "US_RIGHTS_RESERVED",
+        "type": "STRING"
+    }
+]

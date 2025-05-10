@@ -1,0 +1,58 @@
+[
+    {
+        "name": "ID",
+        "type": "STRING"
+    },
+    {
+        "name": "ISDELETED",
+        "type": "STRING"
+    },
+    {
+        "name": "NAME",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "CREATEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDDATE",
+        "type": "STRING"
+    },
+    {
+        "name": "LASTMODIFIEDBYID",
+        "type": "STRING"
+    },
+    {
+        "name": "SYSTEMMODSTAMP",
+        "type": "STRING"
+    },
+    {
+        "name": "CASE_LAND",
+        "type": "STRING"
+    },
+    {
+        "name": "CODE",
+        "type": "STRING"
+    },
+    {
+        "name": "INTERSECT_ACRES",
+        "type": "STRING"
+    },
+    {
+        "name": "TEXT",
+        "type": "STRING"
+    },
+    {
+        "name": "TYPE",
+        "type": "STRING"
+    },
+    {
+        "name": "META_LOAD_DT",
+        "type": "STRING"
+    }
+]
