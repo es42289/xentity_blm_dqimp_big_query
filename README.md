@@ -1,4 +1,23 @@
-## BLM DQIMP QAQC BigQuery Implementation Action Timeline
+## BLM Data Quality Testing BigQuery Implementation Work Log
+
+### 05/10/2025
+
+* Converted SYT_Basic tests into SQL queries and saved each as an individual query.
+    * this allows for running of individual tests to obtain the actual records which fail the test rather than just receiving the count.
+
+* Created a compiled version of the SYT_Basic query which runs all SYT_Basic attribute tests for all loaded snapshots.
+    * output is a table by snapshot date with results counts for each test
+    * output table is saved as a BQ table titled "SYT_Basic"
+
+* Created saved query for Jira ticket 15252
+    * CSE_DISP 
+    * SRC
+    * Modified date 
+    * case action testing
+
+* Created query for Jira ticket 16052
+
+* Designed custom CSE_DISP waterfall ploty chart in dev.ipynb for tracking case dispositon synchronization changes
 
 ### 05/07/2025
 
