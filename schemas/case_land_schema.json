@@ -148,7 +148,7 @@
         "type": "STRING"
     },
     {
-        "name": "",
+        "name": "FORMATTED_LLD_TXT",
         "type": "STRING"
     },
     {

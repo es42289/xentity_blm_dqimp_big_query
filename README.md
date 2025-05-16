@@ -47,6 +47,13 @@ Each month a snapshot of MLRS and NLSDB come in from the BLM and are shared on G
 ---
 
 ## BLM Data Quality Testing BigQuery Implementation Work Log
+### 5/15/2025 - 5/16/2025
+
+* Created queries for all SYT_Basic_CL tests (17)
+* Created aggregate query for snapshot table results of SYTCL tests
+* Added workflow section to README
+* Requested repo moved into blm-devs-group
+
 ### 5/12/2025 - 5/14/2025
 
 * Created new queries for Case Land test and Jira ticket specific tests for weekly calls
