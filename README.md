@@ -47,6 +47,12 @@ Each month a snapshot of MLRS and NLSDB come in from the BLM and are shared on G
 ---
 
 ## BLM Data Quality Testing BigQuery Implementation Work Log
+
+### 5/19/2025 - 5/20/2025
+* Productionalized SYT_Basic_CL queries and aggegated into single script
+* Created new tests for current and future Jira tickets
+* Working on integration of Geoparquet into BigQuery
+
 ### 5/15/2025 - 5/16/2025
 
 * Created queries for all SYT_Basic_CL tests (17)

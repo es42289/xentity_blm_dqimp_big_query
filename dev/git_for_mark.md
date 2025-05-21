@@ -46,7 +46,7 @@ GitHub is where the repo for this work is stored @ [xentity_blm_dqimp_big_query]
 ### Steps to sync local folder with latest repo files and commit a change
 1. Open Git Bash command prompt from Windows menu
 2. `cd /path/to/local/repo`
-3. `git pull oriign main`
+3. `git pull origin main`
     - this will sync your local folder to the current repo
 4. `code .`
     - this opens the repo in VS Code (or whatever default editor you have)
