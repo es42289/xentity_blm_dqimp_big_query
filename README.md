@@ -48,6 +48,9 @@ Each month a snapshot of MLRS and NLSDB come in from the BLM and are shared on G
 
 ## BLM Data Quality Testing BigQuery Implementation Work Log
 
+### 5/21/2025
+* Mark Learned to Git
+
 ### 5/19/2025 - 5/20/2025
 * Productionalized SYT_Basic_CL queries and aggegated into single script
 * Created new tests for current and future Jira tickets
